@@ -1,11 +1,9 @@
-/* Fundo e fontes principais */
 body {
     background: linear-gradient(to bottom, #fdf6fa, #e9f5ff);
     font-family: 'Quicksand', sans-serif;
     color: #444;
 }
 
-/* Cabeçalho estilo anime */
 header {
     background: linear-gradient(to right, #a18cd1, #fbc2eb);
     color: white;
@@ -15,7 +13,6 @@ header {
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
-/* Navegação com efeito hover */
 nav a {
     color: white !important;
     font-weight: bold;
@@ -28,7 +25,6 @@ nav a:hover {
     color: #ffe3ec !important;
 }
 
-/* Área do formulário */
 .form-filme {
     display: flex;
     gap: 10px;
@@ -55,7 +51,6 @@ nav a:hover {
     background-color: #f78fb3;
 }
 
-/* Cards de anime */
 .card-anime {
     background-color: #fff0f5;
     border-radius: 20px;
@@ -76,7 +71,6 @@ nav a:hover {
     border-radius: 0;
 }
 
-/* Títulos de seção */
 .secao h2 {
     font-family: 'Baloo 2', cursive;
     color: #a18cd1;
@@ -87,7 +81,6 @@ nav a:hover {
     padding: 60px 20px;
 }
 
-/* Rodapé */
 footer {
     background-color: #fbc2eb;
     color: #fff;
